@@ -18,7 +18,7 @@ namespace Ejercicio_3
         {
             
             int veces = nro+1;
-            for (int i = 1; i < veces;)
+            for (int i = 1; i <= veces;)
             {
                 if(i % 5 != 0)
                 {
